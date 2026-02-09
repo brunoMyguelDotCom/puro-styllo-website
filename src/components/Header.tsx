@@ -24,7 +24,7 @@ const Header = () => {
         <a href="#hero" className="block">
           {/* Logo tema escuro */}
           <img
-            src="src/assets/logos/logo_header.png"
+            src="src\assets\logo_header.png"
             alt="logo puro styllo horizontal"
             width={145}
             height={100}
@@ -33,7 +33,7 @@ const Header = () => {
 
           {/* Logo tema claro */}
           <img
-            src="src/assets/logos/logo_header_tema_claro.png"
+            src="src\assets\logo_header_tema_claro.png"
             alt="logo puro styllo horizontal"
             width={145}
             height={100}

@@ -47,7 +47,7 @@ const Products = () => {
             }`}
         >
           <div className="flex justify-center mb-8 animate-pulse [animation-duration:4s]">
-            <img src="src\assets\logos\logo_caveira.png" alt="logo puro styllo caveira" width="56" height="100" />
+            <img src="src\assets\logo_caveira.png" alt="logo puro styllo caveira" width="56" height="100" />
           </div>
 
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">

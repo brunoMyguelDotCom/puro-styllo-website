@@ -18,7 +18,7 @@ const Hero = () => {
 
 
         <div style={{ display: "flex", justifyContent: "center", marginBottom: 80 }}>
-          <img src="src\assets\logos\logo_hero.png" alt="logotipo puro styllo" width="320" height="100" />
+          <img src="src\assets\logo_hero.png" alt="logotipo puro styllo" width="320" height="100" />
         </div>
 
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white leading-none mb-6">
