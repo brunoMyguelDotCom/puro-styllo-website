@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="text-center">
             {/* Logo tema escuro */}
             <img
-              src="src\assets\logo_footer.png"
+              src="/logo_footer.png"
               alt="logo puro styllo"
               width={170}
               height={120}
@@ -21,7 +21,7 @@ const Footer = () => {
 
             {/* Logo tema claro */}
             <img
-              src="src\assets\logo_footer_tema_claro.png"
+              src="/logo_footer_tema_claro.png"
               alt="logo puro styllo"
               width={170}
               height={120}
