@@ -27,11 +27,6 @@ export function GoogleReviewButton() {
       <span className="font-semibold tracking-wide">
         Avalie no Google
       </span>
-
-      {/* Logo Google minimalista */}
-      <span className="ml-2 text-xs opacity-80 font-medium">
-        G
-      </span>
     </a>
   );
 }
